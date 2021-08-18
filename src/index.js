@@ -1,13 +1,9 @@
 import './style.css';
 
-const body = document.getElementsByTagName('body');
 const form = document.getElementById('my-form');
-const taskName = document.getElementById('my-form');
 const allTasks = document.getElementById('all-tasks');
-const refresh = document.querySelector('fa-sync-alt');
 const insert = document.getElementById('enter-task');
 const addTask = document.getElementById('task');
-const clear = document.getElementById('all-completed');
 
 const taskList = [
   {

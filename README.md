@@ -7,7 +7,7 @@
 - ES6 Syntax
 - Writing modular JS
 
-![screenshot](./app_screenshot.png)
+![screenshot](./src/Screenshot.png)
 
 Additional description about the project and its features.
 
@@ -24,7 +24,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://faizi2500.github.io/To-Do-List/)
 
 
 ## Getting Started
